@@ -1,0 +1,164 @@
+{
+  "mock_data": [
+    {
+      "id": 1,
+      "name": "Garfield",
+      "popularity": 52,
+      "ratings": 26,
+      "price": "$2.85",
+      "category": "Electronics"
+    },
+    {
+      "id": 2,
+      "name": "Elnar",
+      "popularity": 92,
+      "ratings": 92,
+      "price": "$2.19",
+      "category": "Fashion"
+    },
+    {
+      "id": 3,
+      "name": "Mandy",
+      "popularity": 74,
+      "ratings": 30,
+      "price": "$5.57",
+      "category": "Home & Kitchen"
+    },
+    {
+      "id": 4,
+      "name": "Seymour",
+      "popularity": 70,
+      "ratings": 91,
+      "price": "$9.66",
+      "category": "Books"
+    },
+    {
+      "id": 5,
+      "name": "Christin",
+      "popularity": 42,
+      "ratings": 41,
+      "price": "$6.91",
+      "category": "Health & Wellness"
+    },
+    {
+      "id": 6,
+      "name": "Greta",
+      "popularity": 99,
+      "ratings": 41,
+      "price": "$5.12",
+      "category": "Beauty & Personal Care"
+    },
+    {
+      "id": 7,
+      "name": "Gram",
+      "popularity": 23,
+      "ratings": 59,
+      "price": "$2.70",
+      "category": "Sports & Outdoors"
+    },
+    {
+      "id": 8,
+      "name": "Maud",
+      "popularity": 45,
+      "ratings": 28,
+      "price": "$9.63",
+      "category": "Toys & Games"
+    },
+    {
+      "id": 9,
+      "name": "Herbie",
+      "popularity": 77,
+      "ratings": 86,
+      "price": "$8.60",
+      "category": "Appliances"
+    },
+    {
+      "id": 10,
+      "name": "Caitlin",
+      "popularity": 96,
+      "ratings": 2,
+      "price": "$0.30",
+      "category": "Automotive"
+    },
+    {
+      "id": 11,
+      "name": "Timmy",
+      "popularity": 4,
+      "ratings": 27,
+      "price": "$9.79",
+      "category": "Grocery & Gourmet Food"
+    },
+    {
+      "id": 12,
+      "name": "Clotilda",
+      "popularity": 14,
+      "ratings": 72,
+      "price": "$8.09",
+      "category": "Music & Instruments"
+    },
+    {
+      "id": 13,
+      "name": "Burnaby",
+      "popularity": 64,
+      "ratings": 50,
+      "price": "$2.52",
+      "category": "Office Supplies"
+    },
+    {
+      "id": 14,
+      "name": "Mollie",
+      "popularity": 73,
+      "ratings": 16,
+      "price": "$4.10",
+      "category": "Pet Supplies"
+    },
+    {
+      "id": 15,
+      "name": "Rosamond",
+      "popularity": 61,
+      "ratings": 91,
+      "price": "$6.65",
+      "category": "Gaming"
+    },
+    {
+      "id": 16,
+      "name": "Valencia",
+      "popularity": 45,
+      "ratings": 29,
+      "price": "$3.81",
+      "category": "Travel Accessories"
+    },
+    {
+      "id": 17,
+      "name": "Joceline",
+      "popularity": 100,
+      "ratings": 11,
+      "price": "$9.59",
+      "category": "Smartphones & Tablets"
+    },
+    {
+      "id": 18,
+      "name": "Cliff",
+      "popularity": 85,
+      "ratings": 97,
+      "price": "$2.28",
+      "category": "Watches & Jewelry"
+    },
+    {
+      "id": 19,
+      "name": "Aurelea",
+      "popularity": 7,
+      "ratings": 87,
+      "price": "$6.47",
+      "category": "Baby Products"
+    },
+    {
+      "id": 20,
+      "name": "Mac",
+      "popularity": 10,
+      "ratings": 87,
+      "price": "$0.09",
+      "category": "Stationery & Art Supplies"
+    }
+  ]
+}
